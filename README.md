@@ -1,6 +1,6 @@
 ## Fine-Tuning SAM Model with Bounding Box Prompts for Lung Segmentation on CT Images
 
-This repository contains a step-by-step tutorial for fine-tuning the Segment Anything Model (SAM), a powerful transformer architecture from Hugging Face, using bounding box prompts for lung segmentation on Computed Tomography (CT) images. The goal is to take advantage of this pretrained model and apply it to a more specific task - lung segmentation, which is crucial for diagnosing and understanding a wide range of pulmonary diseases.
+This repository contains a step-by-step tutorial for fine-tuning the Segment Anything Model (SAM), a powerful transformer architecture from Hugging Face, using bounding box prompts for lung segmentation on Computed Tomography (CT) images. The goal is to take advantage of this pretrained model and apply it to a more specific task - lung segmentation, which is crucial for diagnosing and understanding a wide range of pulmonary diseases. [Read the full article here](https://medium.com/@rekalantar/segment-anything-model-sam-for-medical-image-segmentation-9344ba57f2ca).
 
 ![SAM Lung Segmentation](images/SAM_ct.png)
 
